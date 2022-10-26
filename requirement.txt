@@ -3,3 +3,5 @@ numpy
 sklearn
 NLTK
 CountVectorizer
+Pickle
+streamlit
