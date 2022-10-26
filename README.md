@@ -33,5 +33,15 @@ Now we cleaned the dataset by finding if any null value or any outlier is presen
                 Ender's Game
                 Aliens vs Predator: Requiem
                 Independence Day
+                
+    
+    # Deployment
+    
+      Their is no use of any model that we build without geting deployed on website.
+      We deployed movie recommender system model on website with the help of Streamlit library and also used pickle library to load our model on python IDE.
+      Here are the url of website 
+      - Local URL: http://localhost:8501
+      - Network URL: http://127.0.0.1:8501
+
 
 
